@@ -19,3 +19,24 @@ C:\Users\User\Documents\Visual Studio 2012\Projects\setem\setem\bin\System.Web.W
 C:\Users\User\Documents\Visual Studio 2012\Projects\setem\setem\obj\Debug\setem.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2012\Projects\setem\setem\obj\Debug\setem.dll
 C:\Users\User\Documents\Visual Studio 2012\Projects\setem\setem\obj\Debug\setem.pdb
+C:\Users\User\Workspace\setem\setem\setem\bin\setem.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\setem.pdb
+C:\Users\User\Workspace\setem\setem\setem\bin\EntityFramework.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Helpers.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Mvc.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Providers.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Razor.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.WebPages.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Workspace\setem\setem\setem\bin\EntityFramework.xml
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Helpers.xml
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Mvc.xml
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.Razor.xml
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.WebPages.xml
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Workspace\setem\setem\setem\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Workspace\setem\setem\setem\obj\Debug\setem.dll
+C:\Users\User\Workspace\setem\setem\setem\obj\Debug\setem.pdb
+C:\Users\User\Workspace\setem\setem\setem\obj\Debug\setem.csprojResolveAssemblyReference.cache
